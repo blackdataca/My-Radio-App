@@ -6,5 +6,9 @@ description: a truly decentralized cryptocurrency
 twitter_username: AchieveCoin
 github_username: AchieveCoin
 
+github:
+  repository_url: https://github.com/achievecoin
+
+
 # Build settings
 theme: jekyll-theme-cayman
