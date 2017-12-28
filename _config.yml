@@ -1,1 +1,10 @@
+# basic options
+title: The AchieveCoin Project
+author: argos pam
+email: argosp@achievecoin.org
+description: A true decentralized cryptocurrency
+twitter_username: AchieveCoin
+github_username: AchieveCoin
+
+# Build settings
 theme: jekyll-theme-cayman
