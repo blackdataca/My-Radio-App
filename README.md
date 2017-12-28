@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to AchieveCoin.org
 
-You can use the [editor on GitHub](https://github.com/achievecoin/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a community supported project. The goal is to continue the innovations of cryptocurrency for the benefit of all humankind. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ToDo list:
+- Make cryptocurrency decentralized by using Equalhash and starting the blockchain from 0.
+- Invent a true public domain Radial Code Standard as alternative to QR Code or Barcode.
+- Develop scrip/gift card products to make AchieveCoin and other cryptocurrencies accessible on retail distribution networks around the world.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### What is AchieveCoin
 
-# Header 1
-## Header 2
-### Header 3
+AchieveCoin is an open-source cryptocurrency. Just like Bitcoin, there is no central authority to issue or regulate AchieveCoin. AchieveCoin further the decentralize character by using CPU-intensive mining process. AchieveCoin's blockchain starts from number zero, which makes mining possible again for individuals, just like Bitcoin ten years ago.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### What is Radial Code
 
-**Bold** and _Italic_ and `Code` text
+Each cryptocurrency address is a long unique string of numers and letters between 27 and 34 characters. [QR Code](https://en.wikipedia.org/wiki/QR_code) represents the address in machine-readable manner at point-of-sale systems. [sudivision](http://www.qrcode.com/en/patent.html) of Toyota company created QR Code in 1994, which also holds number of patent of the code.   
 
-[Link](url) and ![Image](src)
-```
+A better and fully public domain owned codec which supports more characters could open new doors for adoption of the currency and other technologies.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Analogy:
+Traditional AM radio signal carries information in the amplitude, FM radio in frequency. What if we encode the information in polarization direction, it could contain multitude amount of data in the same 3D space.
 
-### Jekyll Themes
+### Doing business with or without smartphone
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/achievecoin/www/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Many places in the world have yet enter the mobile-age. Scrip products, like gift cards, would offer faster, trust, more reliable, at lower cost for many commercial transaction scenarios. AchieveCoin.org will develop scrip products for decentralized and fiat currencies.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
