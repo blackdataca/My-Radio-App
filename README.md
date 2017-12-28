@@ -1,6 +1,6 @@
 ## Welcome to AchieveCoin.org
 
-This is a community supported project. The goal is to continue the innovations of cryptocurrency for the benefit of all humankind. 
+This is a community supported organzation for the development of AchieveCoin. The goal is to continue the innovations of cryptocurrency for the benefit of all humankind. 
 
 ToDo list:
 - Make cryptocurrency decentralized by using Equalhash and starting the blockchain from 0.
