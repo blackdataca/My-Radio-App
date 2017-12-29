@@ -21,7 +21,7 @@ Each cryptocurrency address is a long unique string of numers and letters betwee
 A better and fully public domain owned code which supports more data could open new doors for adoption of the currency and other technologies.
 
 Analogy:
-Traditional AM radio signal carries information in the amplitude, FM radio in frequency. What if we encode the information in polarization direction, it could contain multitude amount of data in the same 3D space.
+Traditional AM radio signal carries information in the amplitude, FM radio in frequency. What if we encode the information in polarization direction, it could contain multitude amount of data in the same 3D space. Nature already figured it out. For example, snowflake [no two alike](http://www.huffingtonpost.ca/entry/no-two-snowflakes-alike-video_n_4569491).
 
 ### Doing business with or without smartphone 💳
 
