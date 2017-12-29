@@ -16,9 +16,9 @@ AchieveCoin is an open-source cryptocurrency. Just like Bitcoin, there is no cen
 
 ### What is Radial Code ❄
 
-Each cryptocurrency address is a long unique string of numers and letters between 27 and 34 characters. [QR Code](https://en.wikipedia.org/wiki/QR_code) represents the address in machine-readable manner at point-of-sale systems. A [sudivision](http://www.qrcode.com/en/patent.html) of Toyota company created QR Code in 1994, which also holds number of patents for the code.   
+Each cryptocurrency address is a long unique string of numers and letters between 27 and 34 characters. [QR Code](https://en.wikipedia.org/wiki/QR_code) represents the address in machine-readable manner at point-of-sale systems. A [sudivision](http://www.qrcode.com/en/patent.html) of Toyota company created QR Code in 1994, which also holds number of patents for QR code.   
 
-A better and fully public domain owned codec which supports more characters could open new doors for adoption of the currency and other technologies.
+A better and fully public domain owned code which supports more data could open new doors for adoption of the currency and other technologies.
 
 Analogy:
 Traditional AM radio signal carries information in the amplitude, FM radio in frequency. What if we encode the information in polarization direction, it could contain multitude amount of data in the same 3D space.
