@@ -11,7 +11,7 @@ Visions:
 
 ### What is AchieveCoin ⨺ 
 
-AchieveCoin is an open-source cryptocurrency. Just like Bitcoin, there is no central authority to issue or regulate AchieveCoin. AchieveCoin further the decentralize character by using memory-intensive mining process. AchieveCoin's blockchain starts from number zero, which makes mining possible again for individuals, just like Bitcoin ten years ago.
+AchieveCoin is an open-source cryptocurrency derived from Bitcoin Gold. Just like Bitcoin, there is no central authority to issue or regulate AchieveCoin. AchieveCoin further the decentralize characteristic by using memory-intensive mining process. AchieveCoin's blockchain starts from number zero, which makes mining possible again for individuals, just like Bitcoin ten years ago.
 
 
 ### What is Radial Code ❄
@@ -21,7 +21,7 @@ Each cryptocurrency address is a long unique string of numers and letters betwee
 A better and fully public domain owned code which supports more data could open new doors for adoption of the currency and other technologies.
 
 Analogy:
-Traditional AM radio signal carries information in the amplitude, FM radio in frequency. What if we encode the information in polarization direction, it could contain multitude amount of data in the same 3D space. Nature already figured it out. For example, snowflake [no two alike](http://www.huffingtonpost.ca/entry/no-two-snowflakes-alike-video_n_4569491).
+Traditional AM radio signal carries information in the amplitude, FM radio in frequency. What if we encode the information in polarization direction, it could contain multitude amount of data in the same 3D space. Nature has already figured it out. For example, [no two snowflakes are alike](https://www.youtube.com/watch?v=iOfkukhb1Os).
 
 ### Doing business with or without smartphone 💳
 
