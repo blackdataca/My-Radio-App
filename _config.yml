@@ -7,8 +7,12 @@ twitter_username: AchieveCoin
 github_username: AchieveCoin
 
 github:
-  repository_url: https://github.com/achievecoin
+  repository_url: https://github.com/achievecoin/AchieveCoin
+  #mac_url:
+  #win_url:
+  #lin_url:
 
+show_downloads: true
 
 # Build settings
 theme: jekyll-theme-cayman
