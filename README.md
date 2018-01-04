@@ -1,6 +1,6 @@
 ## Welcome to AchieveCoin.org
 
-This is a community supported organization for the development of AchieveCoin. The goal is to continue the innovations of cryptocurrency for the benefit of all humankind.
+This is a community supported organization for the development of AchieveCoin. The goal is to continue the innovations of cryptocurrency for the benefit of all humanity.
 
 
 Visions:
