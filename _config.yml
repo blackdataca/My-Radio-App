@@ -9,7 +9,7 @@ github_username: AchieveCoin
 github:
   repository_url: https://github.com/achievecoin/AchieveCoin
   mac_url: https://github.com/achievecoin/achievecoin.org/releases/pre-alpha/mac/bitcoin-qt
-  #win_url:
+  win_url: https://github.com/achievecoin/achievecoin.org/releases/pre-alpha/win/bitcoin-qt.exe
   #lin_url:
 
 show_downloads: true
