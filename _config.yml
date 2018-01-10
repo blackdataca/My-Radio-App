@@ -17,3 +17,5 @@ collections:
     output: true
 exclude:
   - node_modules/
+
+theme: jekyll-theme-cayman
