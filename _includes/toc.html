@@ -1,0 +1,15 @@
+<aside class="toc pure-menu pure-menu-open" data-spy="affix" data-offset-top="160">
+  <ul class="nav">
+    <li class="pure-menu-heading">
+      <i class="fa fa-file-text-o"></i>
+      TOC
+    </li>
+    {% for toc in page.toc %}
+    <li>
+      <a href="#{{toc | downcase | replace:' ','-'}}">
+        {{forloop.index}}. {{toc}}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</aside>

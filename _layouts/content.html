@@ -1,0 +1,44 @@
+---
+layout: main
+---
+<header class="content-header">
+  <div class="container">
+    <h1>
+      {% case page.category %}
+        {% when 'examples' or 'examples-main' %}
+        <i class="fa fa-code"></i>
+        {% when 'docs' %}
+        <i class="fa fa-file-text-o"></i>
+        {% else %}
+        {% if page.icon %}
+        <i class="fa {{page.icon}}"></i>
+        {% endif %}
+      {% endcase %}
+      {{page.title}}
+    </h1>
+  </div>
+</header>
+
+<div class="container">
+  <div class="pure-g-r">
+    {% if page.category == 'docs' %}
+    <div class="pure-u-1-5">
+      {% include toc.html %}
+    </div>
+    {% endif %}
+    <div class="{{page.category}} {% case page.category %}
+        {% when 'examples'  %}pure-u-3-5
+        {% when 'docs'      %}pure-u-4-5
+        {% else             %}pure-u-1-1
+        {% endcase %}">
+      <article>
+        {{content}}
+      </article>
+    </div>
+    {% if page.category == 'examples' %}
+    <div class="pure-u-2-5">
+      {% include examples-list.html %}
+    </div>
+    {% endif %}
+  </div>
+</div>

@@ -1,16 +1,19 @@
-# basic options
-title: AchieveCoin Project
-author: argos pam
-email: argosp@achievecoin.org
-description: a truly decentralized cryptocurrency
-twitter_username: AchieveCoin
-github_username: AchieveCoin
-
-github:
-  repository_url: https://github.com/achievecoin/AchieveCoin
-  release_url: https://github.com/achievecoin/AchieveCoin/releases/latest
-
-show_downloads: true
-
-# Build settings
-theme: jekyll-theme-cayman
+name:           AchieveCoin Project
+description:    a truly decentralized cryptocurrency
+nickname:       AchieveCoin
+plugin_version: 2.2.0
+baseurl:        http://achievecoin.org
+highlight:      true
+markdown:       kramdown
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - strikethrough
+    - superscript
+collections:
+  examples:
+    output: true
+exclude:
+  - node_modules/

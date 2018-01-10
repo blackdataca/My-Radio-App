@@ -1,0 +1,139 @@
+---
+layout: main
+title: AchieveCoin Project
+---
+<div class="home-welcome">
+  <div class="container">
+    <div class="pure-g-r">
+      <div class="pure-u-1-2">
+        <h1>
+          <i class="fa fa-clock-o"></i>
+          {{ site.name }}
+        </h1>
+        <p>
+          a truly decentralized cryptocurrency
+          {% include gh-buttons.html %}
+        </p>
+      </div>
+      <div class="pure-u-1-2">
+        {% include main-example.html %}
+      </div>
+    </div>
+    <div class="pure-g-r">
+      <div class="pure-u-1-1">
+        <p>
+          <a class="button-xlarge pure-button" href="https://github.com/hilios/jQuery.countdown/releases/download/{{site.plugin_version}}/jquery.countdown-{{site.plugin_version}}.zip" onclick="ga('send', 'event', 'download', 'click');">
+            <i class="fa fa-file-zip-o"></i>
+            Download Latest Core App Release
+          </a>
+          <a class="button-xlarge pure-button" href="https://github.com/hilios/jQuery.countdown">
+            <i class="fa fa-github-alt"></i>
+            View on GitHub
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="home-content container">
+  <div class="pure-g-r">
+    <div class="pure-u-1-2">
+      <article>
+        <h2>Welcome to AchieveCoin.org</h2>
+        <p class="lead">
+          This is a community supported organization for the development of AchieveCoin. The goal is to continue the innovations of cryptocurrency for the benefit of all humanity.
+        </p>
+        <p>
+          The Final Countdown is a plugin tailored to be used in any layout, without any CSS/HTML dependency. The goal was to fit and mimic differents countdown styles as you see out there in <strong>coupons</strong> and <strong>auction</strong> sites.
+        </p>
+        <p>
+          There are few ways to get started, the simplest example is as shown here, but we support many different countdown styles.
+        </p>
+        <p>
+          Read our <a href="{{site.baseurl}}/documentation.html">Documentation</a> and follow our <a href="{{site.baseurl}}/examples.html">Examples</a> to see what suits your particular needs.
+        </p>
+        <h4>Visions</h4>
+        <ul>
+          <li>Make cryptocurrency decentralized by using Equihash and starting the blockchain from 0</li>
+          <li>Invent a true public domain Radial Code Standard as alternative to QR Code and Barcode</li>
+          <li>Develop scrip/gift card products to make AchieveCoin and other cryptocurrencies easier to access on existing retail distribution networks around the world</li>
+        </ul>
+      </article>
+    </div>
+    <div class="pure-u-1-2">
+      <article>
+        <h2>What is AchieveCoin ⨺</h2>
+        <p>AchieveCoin, trading symbol ACH, is an open-source cryptocurrency derived from Bitcoin Gold. Just like Bitcoin, there is no central authority to issue or regulate AchieveCoin. AchieveCoin further the decentralize characteristic by using memory-intensive mining process. AchieveCoin’s blockchain starts from number zero, which makes mining possible again for individuals, just like Bitcoin ten years ago.
+        </p>
+        <div class="download">
+          <h4>Download files:</h4>
+          <p>
+            <a class="pure-button" href="https://github.com/hilios/jQuery.countdown/releases/download/{{site.plugin_version}}/jquery.countdown-{{site.plugin_version}}.zip" onclick="ga('send', 'event', 'download', 'click');">
+              <i class="fa fa-file-zip-o"></i>
+              Download AchieveCoin Core Pre-Alpha
+            </a>
+          </p>
+        </div>
+        <h4>Time to Mainnet launch: 2018-02-14</h4>
+        <div class="home-countdown-example" id="getting-started"></div>
+
+      </article>
+    </div>
+  </div>
+  <div class="pure-g-r">
+    <div class="pure-u-1-2">
+      <article>
+        <h2>What is Radial Code ❄</h2>
+
+        <p>
+          Each cryptocurrency address is a long unique string of numbers and letters between 27 and 34 characters. [QR Code](https://en.wikipedia.org/wiki/QR_code) represents the address in machine-readable manner at point-of-sale systems. A [subdivision](http://www.qrcode.com/en/patent.html) of Toyota company created QR Code in 1994, who  holds number of patents for QR code.
+
+          A better and fully public domain owned code which supports more data could open new doors for adoption of the currency and other technologies.
+
+          Analogy:
+          Traditional AM radio signal carries information in the amplitude, FM radio in frequency. What if we encode the information in polarization direction, it could contain multitude amount of data in the same 3D space. Nature has already figured it out. For example, [no two snowflakes are alike](https://www.youtube.com/watch?v=iOfkukhb1Os). Tiny "snowflakes" are more than enough to hold all cryptocurrency addresses in the world.
+        </p>
+
+        <p>
+          There are many ways to participate, and our GitHub is always open to help you solve your problems. Choose a path and help us to get better:
+        </p>
+
+        <dl class="home-get-involved">
+          <dd>
+            <i class="fa fa-bug"></i>
+            <a href="https://github.com/hilios/jQuery.countdown/issues">Report a bug</a>
+          </dd>
+          <dd>
+            <i class="fa fa-code-fork"></i>
+            <a href="https://github.com/hilios/jQuery.countdown/pulls">Fix something</a>
+          </dd>
+          <dd>
+            <i class="fa fa-paper-plane-o"></i>
+            <a href="https://github.com/hilios/jQuery.countdown/issues">Request or submit features</a>
+          </dd>
+          <dd>
+            <i class="fa fa-support"></i>
+            <a href="https://github.com/hilios/jQuery.countdown/issues?state=open">Help others</a>
+          </dd>
+        </dl>
+      </article>
+    </div>
+    <div class="pure-u-1-2">
+      <article>
+        <h2>Doing business with or without smartphone 💳</h2>
+
+        <p>
+          Many places in the world have yet enter the mobile-age. Scrip products, like gift cards, would offer faster, trust, more reliable, at lower cost for many commercial transaction scenarios. AchieveCoin.org will develop scrip products for decentralized and fiat currencies.
+        </p>
+      </article>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var nextYear = "2018/02/14";
+  $("#getting-started").countdown(nextYear, function(event) {
+    $(this).html(event.strftime('%-w weeks %-d days %Hh %Mm %Ss'));
+  });
+</script>
