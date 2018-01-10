@@ -4,7 +4,7 @@ nickname:       AchieveCoin
 plugin_version: 2.2.0
 baseurl:        http://achievecoin.org
 highlight:      true
-markdown:       redcarpet
+markdown:       kramdown
 redcarpet:
   extensions:
     - no_intra_emphasis
