@@ -1,7 +1,7 @@
 ---
 layout: content
 title: ICO
-category: docs
+category: ico
 toc:
   - ICO
   - Procedure
