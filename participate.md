@@ -13,19 +13,19 @@ category: participate
 <dl class="home-get-involved">
   <dd>
     <i class="fa fa-bug"></i>
-    <a href="https://github.com/hilios/jQuery.countdown/issues">Report a bug</a>
+    <a href="https://github.com/achievecoin/AchieveCoin/issues">Report a bug</a>
   </dd>
   <dd>
     <i class="fa fa-code-fork"></i>
-    <a href="https://github.com/hilios/jQuery.countdown/pulls">Fix something</a>
+    <a href="https://github.com/achievecoin/AchieveCoin/pulls">Fix something</a>
   </dd>
   <dd>
     <i class="fa fa-paper-plane-o"></i>
-    <a href="https://github.com/hilios/jQuery.countdown/issues">Request or submit features</a>
+    <a href="https://github.com/achievecoin/AchieveCoin/issues">Request or submit features</a>
   </dd>
   <dd>
     <i class="fa fa-support"></i>
-    <a href="https://github.com/hilios/jQuery.countdown/issues?state=open">Help others</a>
+    <a href="https://github.com/achievecoin/AchieveCoin/issues?state=open">Help others</a>
   </dd>
 </dl>
 </div>
