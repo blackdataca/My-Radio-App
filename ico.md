@@ -70,6 +70,7 @@ By submitting this form you understand and agree that we provide neither investm
     Order limitations:  Min.: 1 Max.: 99,960
     Quantity:           <input type="text" name="qty"> ACH
     Your email address: <input type="email" name="replyto">
-    To confirm and place this request, select Submit. <input type="submit" value="Submit">
+    To confirm and place this request, select Submit.
+    <input type="submit" value="Submit">
 </form>
 </pre>
