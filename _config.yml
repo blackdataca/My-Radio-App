@@ -2,7 +2,7 @@ name:           AchieveCoin Project
 description:    a truly decentralized cryptocurrency
 nickname:       AchieveCoin
 plugin_version: 2.2.0
-baseurl:        https://achievecoin.org
+#baseurl:        https://achievecoin.org
 highlight:      true
 markdown:       kramdown
 redcarpet:
