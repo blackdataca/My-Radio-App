@@ -4,7 +4,7 @@ title: ICO
 category: docs
 toc:
   - ICO
-  - Process
+  - Procedure
   - Express Interest
 published: true
 ---
@@ -34,7 +34,7 @@ In order to support the current and future development of AchieveCoin project, t
 
 
 
-Process <a id="process"></a>
+Procedure <a id="procedure"></a>
 ------------
 
 #### Step 1
