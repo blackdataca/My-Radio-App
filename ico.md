@@ -12,7 +12,7 @@ published: true
 ICO <a id="ico"></a>
 -------
 
-In order to support the current and future development of AchieveCoin project, the first blocks of the blockchain have a reduced difficulty level that will allow the development team to mine these blocks very rapidly, and then the new difficulty adjustment algorithm will kick in and everyone will have the opportunity to mine on equal footing. As a result, the AchieveCoin development team will manage 0.476% of the total coin supply, which will be distributed to ICO holders.
+In order to support the current and future development of AchieveCoin project, the first blocks of the blockchain have a reduced difficulty level that will allow the development team to mine these blocks very rapidly, and then the new difficulty adjustment algorithm will kick in and everyone will have the opportunity to mine on equal footing. As a result, the AchieveCoin development team will manage 1% of the total coin supply, which will be distributed to ICO holders.
 
 #### ICO Details ####
 
@@ -20,12 +20,12 @@ In order to support the current and future development of AchieveCoin project, t
   Token name:    AchieveCoin
   Represents:    Actual blockchain ownership
   Symbol:        ACH
-  Size of issue: 99,960 coins (0.476% of max. 21,000,000)
+  Size of issue: 210,000 coins (1% of max. 21,000,000)
   Distribution:  ICO 100%
   Price:         1 ACH = 1 USD (~ 0.07 mBTC)
   Lot size:      1
   Min. quantity: 1
-  Max. quantity: 99,960
+  Max. quantity: 210,000
   Open period:   2018-01-14 to 2018-02-14
   Fees:          0
   KYC:           No
@@ -50,7 +50,7 @@ You send funds before ICO round closes.
 We will send you an ICO certificate or return the funds to you if ICO is oversubscribed.
 
 #### Step 5
-Anytime after Feb 14 mainnet goes live, you can claim your AchieveCoin with ICO certificate and a public AchieveCoin wallet address.
+Anytime after Feb 14th Mainnet goes live, you can claim your AchieveCoin with ICO certificate and a public AchieveCoin wallet address.
 
 #### Step 6
 We will send AchieveCoin to your wallet address. When receiving is confirmed in the blockchain, we will also remove all records containing your emails and other private information from our server.
@@ -66,8 +66,8 @@ By submitting this form you understand and agree that we provide neither investm
       method="POST">
     Funding method:     BTC
     Price:              0.000073 BTC (~ 0.07 mBTC, ~ 1 USD) per ACH
-    Size:               Maximum 99,960
-    Order limitations:  Min.: 1 Max.: 99,960
+    Size:               Maximum 210,000
+    Order limitations:  Min.: 1 Max.: 210,000
     Quantity:           <input type="text" name="qty"> ACH
     Your email address: <input type="email" name="replyto">
     To confirm and place this request, select Submit.
