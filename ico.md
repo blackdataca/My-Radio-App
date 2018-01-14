@@ -41,7 +41,7 @@ Procedure <a id="procedure"></a>
 Fill in and submit the Express of Interest form anytime before 2018-02-14. (ICO may close early if all lots are sold.)
 
 #### Step 2
-We will email you instructions for funding.
+We will email you instructions for funding. You verify the email with your random word.
 
 #### Step 3
 You send funds before ICO round closes.
@@ -70,6 +70,7 @@ By submitting this form you understand and agree that we provide neither investm
     Order limitations:  Min.: 1 Max.: 210,000
     Quantity:           <input type="text" name="qty"> ACH
     Your email address: <input type="email" name="replyto">
+    Enter a random word:<input type="text" name="random">
     To confirm and place this request, select Submit.
     <input type="submit" value="Submit">
 </form>
