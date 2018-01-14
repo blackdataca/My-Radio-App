@@ -8,7 +8,7 @@ category: features
 
 ### Bitcoin codebase ###
 
-Derived from Bitcoin. Minimum code changes.
+Derived from Bitcoin Gold. With minimum code changes.
 
 ### Re-decentralized ###
 
