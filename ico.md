@@ -29,7 +29,7 @@ In order to support the current and future development of AchieveCoin project, t
   Open period:   2018-01-14 to 2018-02-14
   Fees:          0
   KYC:           No
-  Accepts:       BTC, BTG
+  Accepts:       BTC
 ```
 
 
