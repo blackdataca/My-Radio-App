@@ -78,6 +78,9 @@ header .brand {
   line-height: 3.2em;
   text-decoration: none;
 }
+header .brand img {
+  vertical-align: middle;
+}
 header .brand,
 header .brand:link,
 header .brand:visited {
