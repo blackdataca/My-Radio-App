@@ -14,6 +14,8 @@ ICO <a id="ico"></a>
 
 In order to support the current and future development of AchieveCoin project, the first blocks of the blockchain have a reduced difficulty level that will allow the development team to mine these blocks very rapidly, and then the new difficulty adjustment algorithm will kick in and everyone will have the opportunity to mine on equal footing. As a result, the AchieveCoin development team will manage 1% of the total coin supply, which will be distributed to ICO holders.
 
+ICO is open until 2018-02-14.
+
 #### ICO Details ####
 
 ```
