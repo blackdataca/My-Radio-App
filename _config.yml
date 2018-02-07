@@ -4,6 +4,7 @@ nickname:       AchieveCoin
 plugin_version: 2.2.0
 #baseurl:        https://achievecoin.org
 highlight:      true
+future:         false #do not show post-dated posts
 markdown:       kramdown
 redcarpet:
   extensions:

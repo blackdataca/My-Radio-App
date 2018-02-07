@@ -6,7 +6,7 @@ layout: content
   {% for post in site.posts %}
     <article class="post">
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="date">
         {{ post.date | date: "%B %e, %Y" }}
@@ -16,7 +16,7 @@ layout: content
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
