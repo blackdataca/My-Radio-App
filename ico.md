@@ -23,7 +23,7 @@ ICO is open until 2018-02-14.
   Represents:    Actual blockchain ownership
   Symbol:        ACH
   Size of issue: 210,000 coins (1% of max. 21,000,000)
-  Distribution:  ICO 100%
+  Distribution:  ICO 1%
   Price:         1 ACH = 1 USD (~ 0.07 mBTC)
   Lot size:      1
   Min. quantity: 1
