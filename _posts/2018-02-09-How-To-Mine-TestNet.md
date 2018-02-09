@@ -26,15 +26,14 @@ If you are running Mac OS, download AchieveCoin.Core.Mac.x.x.x.zip
 Unpack executable files from downloaded package into a convenience folder. There is no installation needed.
 
 # Running AchieveCoin Core
-Create a configuration file in datadir. The default location of datadir is different on each platform.
+Similar to Bitcoin, you may want to create an achievecoin.conf file in datadir. The default folder location is here:
+    Windows: C:\Documents and Settings\<username>\Application Data\achievecoin
+    Win10: C:\Users\<username>\AppData\Roaming\achievecoin
+    Mac: ~/Library/Application Support/achievecoin
+    Linux: ~/.achievecoin
 
-On Windows, C:\Users\user\AppData\Roaming\achievecoin\achievecoin.conf
 
-On Linux, $HOME/.achievecoin/achievecoin.conf
-
-On Mac, /Users/user/Library/Application Support/AchieveCoin/achievecoin.conf
-
-Add the following line
+Add the following line in achievecoin.conf file
 ```
 testnet=1
 ```
@@ -62,7 +61,7 @@ Popular Mining Software
 
 
 # CPU Mining
-Although GPU is much much more effective than CPU for calculating hash, it is still possible to generate coins using CPU when network difficulty is low. The AchieveCoin Core has a built-in mining command. Under Help -> Debug Window -> Console -> enter
+Although GPU is much much more effective than CPU for calculating hash, it is still possible to generate coins using CPU when network difficulty is low. The AchieveCoin Core has a built-in unoptimized mining command. Under Help -> Debug Window -> Console -> enter
 
 ```
 generate 1
