@@ -62,13 +62,15 @@ Popular Mining Software
 
 
 # CPU Mining
-Although GPU is much much more effective than CPU for calculating hash, if you still want to try your luck in generating coins using CPU. The AchieveCoin Core has a built-in mining command. Under Help -> Debug Window -> Console -> type in
+Although GPU is much much more effective than CPU for calculating hash, it is still possible to generate coins using CPU when network difficulty is low. The AchieveCoin Core has a built-in mining command. Under Help -> Debug Window -> Console -> enter
 
 ```
 generate 1
 ```
 
-Parameter 1 stands for 1 block (50 coins). To learn more
+Parameter 1 stands for 1 block (50 coins).
+
+To learn more
 
 ```
 help generate
