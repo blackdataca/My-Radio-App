@@ -3,8 +3,7 @@ layout: post
 title: How to Mine Testnet Coins
 ---
 
-achievecoin.org
-support@achievecoin.org
+[achievecoin.org](http://achievecoin.org) support@achievecoin.org
 
 To mine AchieveCoin in testnet​, you can join a testnet pool. Please be aware that all the coins mined in testnet have​ ​zero​ ​value​, so miners can just view this as an end-to-end functional test for mining setup.
 
@@ -16,22 +15,21 @@ You can compile AchieveCoin Core from source code,
 or
 
 download pre-compiled AchieveCoin Core from [Github](https://github.com/achievecoin/AchieveCoin/releases).
-
+```
 If you are running Windows, download AchieveCoin.Core.Win.x.x.x.zip.
-
 If you are running Linux, Ubuntu, download AchieveCoin.Core.Linux.x.x.x.tar.gz.
-
 If you are running Mac OS, download AchieveCoin.Core.Mac.x.x.x.zip
-
+```
 Unpack executable files from downloaded package into a convenience folder. There is no installation needed.
 
 # Running AchieveCoin Core
-Similar to Bitcoin, you may want to create an achievecoin.conf file in datadir. The default folder location is here:
-    Windows: C:\Documents and Settings\<username>\Application Data\achievecoin
-    Win10: C:\Users\<username>\AppData\Roaming\achievecoin
-    Mac: ~/Library/Application Support/achievecoin
-    Linux: ~/.achievecoin
-
+Similar to Bitcoin, you may want to create an achievecoin.conf file in datadir folder. The default datadir folder location is here
+```
+Windows: C:\Documents and Settings\<username>\Application Data\achievecoin
+Win10: C:\Users\<username>\AppData\Roaming\achievecoin
+Mac: ~/Library/Application Support/achievecoin
+Linux: ~/.achievecoin
+```
 
 Add the following line in achievecoin.conf file
 ```
@@ -46,7 +44,7 @@ ach-qt.exe (on Windows)
 
 # Creating Testnet Address
 On AchieveCoin Core, go to File menu, select Receiving addresses..., then click New button. For privacy concerns, it is recommended to create new address for each transaction.
-testnet address starts with lower-case letter 'a'.
+Testnet address starts with lower-case letter 'a'.
 
 
 # Mining Pools and Mining Software
