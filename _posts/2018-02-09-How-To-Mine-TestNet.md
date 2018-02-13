@@ -3,7 +3,7 @@ layout: post
 title: How to Mine Testnet Coins
 ---
 
-[achievecoin.org](http://achievecoin.org) support@achievecoin.org
+[achievecoin.org](http://achievecoin.org) 
 
 To mine AchieveCoin in testnet​, you can join a testnet pool. Please be aware that all the coins mined in testnet have​ ​zero​ ​value​, so miners can just view this as an end-to-end functional test for mining setup.
 
