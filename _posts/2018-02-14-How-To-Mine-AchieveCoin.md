@@ -39,7 +39,7 @@ ach-qt.exe (on Windows)
 
 # Creating Address
 On AchieveCoin Core, go to File menu, select Receiving addresses..., then click New button. For privacy concerns, it is recommended to create new address for each transaction.
-AchieveCoin address starts with lower-case letter 'A'.
+AchieveCoin address starts with upper-case letter 'A'.
 
 
 # Mining Pools and Mining Software

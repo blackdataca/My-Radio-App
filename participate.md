@@ -11,6 +11,14 @@ category: participate
 <p>
 You can start mining AchieveCoins to help processing transactions. In order to protect the network, you should join smaller mining pools with Equihash support like <a href="http://minelab.space">http://minelab.space</a> and prefer decentralized pools.
 </p>
+<h4>Pools</h4>
+<div class="img-with-text">
+<a href="https://nibirupool.com/">
+  <img src="/images/pools/nibiru/Nibiru_logo_181x200.png">
+  <p>NibiruPool</p>
+</a>
+</div>
+
 <br>
 
 <h3><i class="fa fa-link"></i> Be the network</h3>
