@@ -13,7 +13,7 @@ You can start mining AchieveCoins to help processing transactions. In order to p
 </p>
 <h4>Pools</h4>
 <div class="img-with-text">
-<a href="https://nibirupool.com/">
+<a href="https://ach.nibirupool.com/">
   <img src="/images/pools/nibiru/Nibiru_logo_181x200.png">
   <p>NibiruPool</p>
 </a>
