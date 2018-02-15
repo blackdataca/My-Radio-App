@@ -9,7 +9,7 @@ category: participate
 <p>Your participation makes the world a better place, in big and small ways. There are many ways to participate.</p>
 <h3><i class="fa fa-cubes"></i> Mining</h3>
 <p>
-You can start mining AchieveCoins to help processing transactions. In order to protect the network, you should join smaller mining pools with Equihash support like <a href="http://minelab.space">http://minelab.space</a> and prefer decentralized pools.
+You can start mining AchieveCoins to help processing transactions. In order to protect the network, you should join smaller mining pools with Equihash support like <a href="https://github.com/achievecoin/z-nomp-achievecoin">minelab.space</a> and prefer decentralized pools.
 </p>
 <h4>Pools</h4>
 <div style="display: flex;">
