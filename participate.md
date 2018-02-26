@@ -7,6 +7,7 @@ category: participate
 
 <div class="examples-list-index">
 <p>Your participation makes the world a better place, in big and small ways. There are many ways to participate.</p>
+
 <h3><i class="fa fa-cubes"></i> Mining</h3>
 <p>
 You can start mining AchieveCoins to help processing transactions. In order to protect the network, you should join smaller mining pools with Equihash support like <a href="https://github.com/achievecoin/z-nomp-achievecoin">minelab.space</a> and prefer decentralized pools.
@@ -68,4 +69,23 @@ AchieveCoin software is free and fully open source. So if you are a developer, y
     <a href="https://github.com/achievecoin/AchieveCoin/issues?state=open">Help others</a>
   </dd>
 </dl>
+
+<br>
+
+<h3><i class="fa fa-exchange"></i> Trading</h3>
+<p>
+Buying and selling AchieveCoin 
+</p>
+
+<div style="display: flex;">
+  <div style="margin-left: 5px; padding: 10px; border: 1px solid #eee!important; border-radius: 5px">
+  <a href="https://bisq.network">
+    <img src="/images/exchanges/bisq/logo_100.png">
+    <div style="text-align: center">Bisq</div>
+  </a>
+  </div>
+
+
+</div>
+
 </div>

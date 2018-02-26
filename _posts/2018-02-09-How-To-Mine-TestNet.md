@@ -3,7 +3,7 @@ layout: post
 title: How to Mine Testnet Coins
 ---
 
-[achievecoin.org](http://achievecoin.org) 
+[achievecoin.org](http://achievecoin.org)
 
 To mine AchieveCoin in testnet​, you can join a testnet pool. Please be aware that all the coins mined in testnet have​ ​zero​ ​value​, so miners can just view this as an end-to-end functional test for mining setup.
 
@@ -23,7 +23,8 @@ If you are running Mac OS, download AchieveCoin.Core.Mac.x.x.x.zip
 Unpack executable files from downloaded package into a convenience folder. There is no installation needed.
 
 # Running AchieveCoin Core
-Similar to Bitcoin, you may want to create an achievecoin.conf file in datadir folder. The default datadir folder location is here
+Similar to Bitcoin, you may want to create an achievecoin.conf file in datadir folder (optional).
+The default datadir folder location is here
 ```
 Windows: C:\Documents and Settings\<username>\Application Data\achievecoin
 Win10: C:\Users\<username>\AppData\Roaming\achievecoin
@@ -31,15 +32,15 @@ Mac: ~/Library/Application Support/achievecoin
 Linux: ~/.achievecoin
 ```
 
-Add the following line in achievecoin.conf file
+Add the following line in achievecoin.conf file (optional)
 ```
 testnet=1
 ```
 
 Start AchieveCoin Core by Running
 ```
-./ach-qt  (on Linux and Mac)
-ach-qt.exe (on Windows)
+./ach-qt -testnet (on Linux and Mac)
+ach-qt.exe -testnet (on Windows)
 ```
 
 # Creating Testnet Address
