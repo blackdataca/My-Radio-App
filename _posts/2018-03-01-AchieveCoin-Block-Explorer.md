@@ -2,6 +2,8 @@
 layout: post
 author: AchieveCoin
 title: The AchieveCoin Block Explorer
+summary: We’re pleased to announce our Blockchain Explorer https://blocks.achievecoin.org
+image: /images/explorer.png
 ---
 
 [![block explorer]({{ "/images/explorer.png" | relative_url }})](https://blocks.achievecoin.org)

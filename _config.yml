@@ -19,3 +19,4 @@ collections:
 exclude:
   - node_modules/
 twitter_username: AchieveCoin
+title_image: images/ach_blue_small_32x32.png
