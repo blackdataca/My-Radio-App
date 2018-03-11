@@ -42,7 +42,7 @@ You can start mining AchieveCoins to help processing transactions. In order to p
 
 <h3><i class="fa fa-link"></i> Be the network</h3>
 <p>
-If you have a good Internet connection, you can strengthen the AchieveCoin network by keeping full node software running on your computer or server with port 7337 open. Full nodes are securing and relaying all transactions.
+If you have a good Internet connection, you can strengthen the AchieveCoin network by keeping full node software running on your computer or server with port 7337 open. (7337 mainnet, 17337 testnet, 17444 regtest) Full nodes are securing and relaying all transactions.
 </p>
 <br>
 
@@ -74,7 +74,7 @@ AchieveCoin software is free and fully open source. So if you are a developer, y
 
 <h3><i class="fa fa-exchange"></i> Trading</h3>
 <p>
-Buying and selling AchieveCoin 
+Buying and selling AchieveCoin
 </p>
 
 <div style="display: flex;">
