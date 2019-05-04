@@ -1,8 +1,8 @@
-name:           AchieveCoin Project
-description:    a truly decentralized cryptocurrency
-nickname:       AchieveCoin
+name:           My Radio
+description:    Stream music from your computer to Echo
+nickname:       My Radio
 plugin_version: 2.2.0
-#baseurl:        https://achievecoin.org
+#baseurl:        https://alexa.blackdata.ca
 highlight:      true
 future:         false #do not show post-dated posts
 markdown:       kramdown
@@ -18,5 +18,5 @@ collections:
     output: true
 exclude:
   - node_modules/
-twitter_username: AchieveCoin
+twitter_username: blackdata7
 title_image: images/ach_blue_small_32x32.png
